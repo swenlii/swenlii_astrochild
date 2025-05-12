@@ -7,7 +7,7 @@
 [![node-version](https://img.shields.io/badge/watch-live-blueviolet)](https://swenlii.up.railway.app/works/astro-for-children)<!-- ccылка на проект -->
 
 <div align="center">
-<img src="public/images/astro-1.png" width="600px">
+<img src="https://swenlii.github.io/img/projects/astrochild.png" width="700px">
 </div>
 
 ## ⚡Описание проекта
